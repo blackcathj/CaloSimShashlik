@@ -1,0 +1,44 @@
+#
+# Macro file for the initialization phase of "exampleN02.cc"
+# when runing in interactive mode
+#
+# Sets some default verbose
+#
+# run with /control/execute mac/ShowerSpread.mac
+#
+/control/verbose 2
+/run/verbose 2
+
+
+/particle/list
+/process/list
+
+
+# /Gun/InputBeamParticle gamma
+# /Gun/InputBeamParticle mu-
+/Gun/InputBeamParticle e-
+# /Gun/InputBeamParticle pi-
+# /Gun/InputBeamParticle kaon-
+
+/Gun/Energy 3 
+/Gun/EnergySpread 0 
+
+/Gun/Angle	28.5
+/Gun/AngleRand	0
+
+
+# /Gun/UseFile 1
+# /Gun/inputFile script/electron_BaBar.track.dat
+# /Gun/inputFile script/Illustration.track.dat
+# /Gun/inputFile script/solid_BaBar_PVDIS_electron.root.dat
+# /Gun/inputFile script/gemc_solid_BaBar_SIDIS_electron.root.Large.dat
+
+# /Gun/UseMagneticField 0 0 1.5
+/Gun/UseMagneticField 0 0 0
+
+
+
+/run/beamOn 500
+
+
+

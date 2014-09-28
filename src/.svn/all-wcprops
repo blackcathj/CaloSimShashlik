@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/solid/!svn/ver/40/CaloSim/src
+END
+CaloSimPrimaryGeneratorMessenger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/solid/!svn/ver/50/CaloSim/src/CaloSimPrimaryGeneratorMessenger.cc
+END
+CaloSimDetectorConstruction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/solid/!svn/ver/50/CaloSim/src/CaloSimDetectorConstruction.cc
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/solid/!svn/ver/40/CaloSim/src/.directory
+END
+CaloSimSD.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/solid/!svn/ver/45/CaloSim/src/CaloSimSD.cc
+END
+CaloSimPrimaryGeneratorAction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/solid/!svn/ver/42/CaloSim/src/CaloSimPrimaryGeneratorAction.cc
+END
+CaloSimMagneticField.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/solid/!svn/ver/42/CaloSim/src/CaloSimMagneticField.cc
+END
+CaloSimMaterialsConstruction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/solid/!svn/ver/40/CaloSim/src/CaloSimMaterialsConstruction.cc
+END
+CaloSimDetectorHit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/solid/!svn/ver/42/CaloSim/src/CaloSimDetectorHit.cc
+END
+CaloSimPhysicsList.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/solid/!svn/ver/42/CaloSim/src/CaloSimPhysicsList.cc
+END
+CaloSimSteppingVerbose.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/solid/!svn/ver/40/CaloSim/src/CaloSimSteppingVerbose.cc
+END
+CaloSimRunAction.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/solid/!svn/ver/40/CaloSim/src/CaloSimRunAction.cc
+END
